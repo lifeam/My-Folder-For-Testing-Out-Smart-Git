@@ -1,3 +1,9 @@
 Hello World
 
 This file is to show how to create a new repository, a new file in the repository, and add something to that file.
+
+Adding a second line to this file
+
+There was some stuff that I couldn't find in this program because the teacher is using source tree and I am using Smart Git (namely adding my name and email to the commit so that everyone knows I made the change [when working collaboratively]).
+
+Save file to see changes in the git gui
