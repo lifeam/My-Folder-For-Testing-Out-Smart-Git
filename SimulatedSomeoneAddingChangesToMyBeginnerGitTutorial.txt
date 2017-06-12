@@ -2,4 +2,6 @@ Just adding some text
 
 "Hey add something about how version control is helpful to you"
 
+I just remembered that this is not the changed file in the actual repository, this is actually just having a file TO BE pushed to the main. This is the stage right before the actual passing around documents in collaboration
+
 -Simulated Person Making Changes
