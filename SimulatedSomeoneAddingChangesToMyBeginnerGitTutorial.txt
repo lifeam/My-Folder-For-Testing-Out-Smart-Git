@@ -4,4 +4,6 @@ Just adding some text
 
 I just remembered that this is not the changed file in the actual repository, this is actually just having a file TO BE pushed to the main. This is the stage right before the actual passing around documents in collaboration
 
--Simulated Person Making Changes
+I am not for sure what I changed by hitting the green and red spaces betweent the head file and the working file.  I will have to learn how to "checkout" a file or look at a previous commit.
+
+-Simulated Person Requesting Changes
