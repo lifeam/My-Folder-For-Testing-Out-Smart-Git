@@ -1,10 +1,28 @@
+<<<<<<< HEAD
 // List things to do (only list 3 for demonstration purposes) and pick thing (for a menu option)
 // clean kitchen
 // clean living room
 // clean shed
 // pick thing to do
 
+// DISPLAY things to do using print()
+println("clean kitchen");
+println("clean living room");
+println("clean shed");
+println("pick thing to do");
+=======
+>>>>>>> parent of 62853f5... Write List of things TODO or TOBE (see below) "notation style(TODO,TOBE)"
 
+
+
+
+
+// TODO: make the window abort itself somehow so that I can just interact with the console
+
+
+
+
+/* 
 void setup() {
   size(300, 300);
   cleanKitchen();
