@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // List things to do (only list 3 for demonstration purposes) and pick thing (for a menu option)
 // clean kitchen
 // clean living room
@@ -10,8 +9,6 @@ println("clean kitchen");
 println("clean living room");
 println("clean shed");
 println("pick thing to do");
-=======
->>>>>>> parent of 62853f5... Write List of things TODO or TOBE (see below) "notation style(TODO,TOBE)"
 
 
 
@@ -41,3 +38,4 @@ String cleanLivingRoom() {
 String pickActivity() {
   return ("You are pickActivity");
 }
+*/
