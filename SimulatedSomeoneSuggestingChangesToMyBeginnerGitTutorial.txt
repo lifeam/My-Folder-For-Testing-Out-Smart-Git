@@ -1,4 +1,5 @@
 Just adding some text
+"Hey, check out the functions of the println() by typing it in and then hitting Ctrl+Space. (Sketch files in processing language IDE)
 
 "Hey add something about how version control is helpful to you"
 
