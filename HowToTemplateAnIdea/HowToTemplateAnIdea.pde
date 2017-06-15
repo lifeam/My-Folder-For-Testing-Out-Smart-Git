@@ -15,6 +15,8 @@ println("pick thing to do");
 println();
 
 
+// ****************  VARIABLES  ************************
+
 // CREATE VARIABLES for tasks (using the items in the list of things to do as values)
 String  task_kitchen = "The kitchen is clean";
 String  task_livingRoom = "The living room is clean";
@@ -27,16 +29,37 @@ println(task_livingRoom);
 println(task_shed);
 println(task_pickActivity);
 
+// ****************  BOOLEANS  ************************
+
+// CREATE BOOLEANS for the variables
+// .........// default true //.............
+boolean kitchenIsClean_dt = true;
+boolean livingRoomIsClean_dt = true;
+boolean shedIsClean_dt = true;
+boolean pickActivity_dt = true;          // TODO: not for sure how I would use this yet
+// .........// default false //.............
+boolean kitchenIsClean_df = false;
+boolean livingRoomIsClean_df = false;
+boolean shedIsClean_df = false;
+boolean pickActivity_df = false;         // TODO: not for sure how I would use this yet
+
+// **************************************************************
+
 // ****************  CONDENSED COMMENTS  ************************
+
+// **************************************************************
 
 // DISPLAY
 // VARIABLES
 // BOOLEANS
+//     default true
+//     default false
 // IF STATEMENTS
 // LOOPS
-// WHILE 
-// DO WHILE 
-// FOR 
+//     WHILE 
+//     DO WHILE 
+//     FOR 
+// ARRAYS
 // BIT SHIFT ..... OH TO UNDERSTAND THAT!!
 // 
 
@@ -45,8 +68,8 @@ println(task_pickActivity);
 
 
 // ###############################################################################################
-//  ############      ############      ############      ############      ############     
-//  ############      ############      ############      ############      ############     
+//      ############      ############      ############      ############      ############     
+//      ############      ############      ############      ############      ############     
 // ###############################################################################################
 
 // STUFF THAT MIGHT BE HELPFUL ABOUT METHODS AND RETURN VALUES
