@@ -1,4 +1,6 @@
 Just adding some text
+"Hey, I know you want to use processing but there is no easy way that I can find to get user input from the person.  I may just finish up this little tutorial with what I can do and then do another one of these using the Eclipse IDE and Java."
+
 "Hey, check out the functions of the println() by typing it in and then hitting Ctrl+Space. (Sketch files in processing language IDE)
 
 "Hey add something about how version control is helpful to you"
