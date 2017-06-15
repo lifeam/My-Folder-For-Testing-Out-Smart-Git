@@ -28,6 +28,7 @@ println(task_kitchen);
 println(task_livingRoom);
 println(task_shed);
 println(task_pickActivity);
+println();
 
 // ****************  BOOLEANS  ************************
 
@@ -43,6 +44,45 @@ boolean livingRoomIsClean_df = false;
 boolean shedIsClean_df = false;
 boolean pickActivity_df = false;         // TODO: not for sure how I would use this yet
 
+// ****************  IF STATEMENTS  ************************
+
+// Create IF STATEMENTS using the boolean variables
+// .........// default true //.............
+if (kitchenIsClean_dt == true)
+{
+  println("Good job on the kitchen!");
+}  // end if kitchenIsClean_dt
+if (livingRoomIsClean_dt == true)
+{
+  println("Good job on the living room!");
+}  // end if livingRoomIsClean_dt
+if (shedIsClean_dt == true)
+{
+  println("Good job on the shed!");
+}  // end if shedIsClean_dt
+if (pickActivity_dt == true)
+{
+  println("So you picked an activity!");
+}  // end if pickActivity_dt
+println();
+// .........// default false //.............
+if (kitchenIsClean_df == false)
+{
+  println("You know the kitchen really could use a cleaning...GET ON IT!");
+}  // end if kitchenIsClean_df
+if (livingRoomIsClean_df == false)
+{
+  println("You know the living room really could use a cleaning...GET ON IT!");
+}  // end if livingRoomIsClean_df
+if (shedIsClean_df == false)
+{
+  println("You know the shed really could use a cleaning...GET ON IT!");
+}  // end if shedIsClean_df
+if (pickActivity_df == false)
+{
+  println("C'mon now...please pick an activity and GET STARTED!");
+}  // end if pickActivity_df
+
 // **************************************************************
 
 // ****************  CONDENSED COMMENTS  ************************
@@ -55,6 +95,7 @@ boolean pickActivity_df = false;         // TODO: not for sure how I would use t
 //     default true
 //     default false
 // IF STATEMENTS
+// SWITCH STATEMENTS
 // LOOPS
 //     WHILE 
 //     DO WHILE 
