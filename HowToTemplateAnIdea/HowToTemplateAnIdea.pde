@@ -30,6 +30,7 @@ println(task_shed);
 println(task_pickActivity);
 println();
 
+
 // ****************  BOOLEANS  ************************
 
 // CREATE BOOLEANS for the variables
@@ -43,6 +44,7 @@ boolean kitchenIsClean_df = false;
 boolean livingRoomIsClean_df = false;
 boolean shedIsClean_df = false;
 boolean pickActivity_df = false;         // TODO: not for sure how I would use this yet
+
 
 // ****************  IF STATEMENTS  ************************
 
@@ -82,6 +84,18 @@ if (pickActivity_df == false)
 {
   println("C'mon now...please pick an activity and GET STARTED!");
 }  // end if pickActivity_df
+
+
+// ****************  IF STATEMENTS  ************************
+// ****************  SWITCH STATEMENTS  ************************
+// ****************  LOOPS  ************************
+// .........// while loop //.............
+// .........// do while loop //.............
+// .........// for loop //.............
+// ****************  ARRAYS  ************************
+// ****************  BIT SHIFT ..... OH TO UNDERSTAND THAT!!  ************************
+// ****************  IF STATEMENTS  ************************
+// ****************  IF STATEMENTS  ************************
 
 // **************************************************************
 
